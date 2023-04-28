@@ -1,3 +1,10 @@
 body {
     background-image: url("https://i.imgur.com/MSXUnJz.gif");
 }
+
+.flag {
+    color:blue;
+    background-color: whitesmoke;
+    display: flex;
+    opacity: 0.8;
+}
