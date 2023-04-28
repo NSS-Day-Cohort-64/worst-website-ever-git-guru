@@ -1,3 +1,19 @@
 body {
     background-image: url("https://i.imgur.com/MSXUnJz.gif");
 }
+
+article.annoyingPic {
+    background-image: url("https://64.media.tumblr.com/7204639a1101e07c4c7e44bf0a7e92c4/tumblr_mpfa8r3tzF1s5jjtzo1_500.gif");
+    background-size: 15%;
+    background-repeat: repeat;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    color: yellow;
+}
+
+section {
+    color: white;
+    border-color: yellow;
+}
